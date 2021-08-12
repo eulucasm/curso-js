@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios aula de string</title>
+</head>
+
+<body>
+    <script>
+        const name = prompt('digite seu nome completo: ');
+        document.body.innerHTML += `O seu nome é: ${name}<br/>`;
+        document.body.innerHTML += `seu nome tem ${name.length} letras <br/>`;
+        document.body.innerHTML += `A segunda letra do seu nome é :${name[1]}}<br/>`;
+        document.body.innerHTML += `Qual o primeiro índice da letra no seu nome: ${name.slice(0)} <br/>`;
+        document.body.innerHTML += `Qual o ultimo índice da letra no seu nome: ${name.slice(-1)}<br/>`;
+        document.body.innerHTML += `As ultimas 3 letras de seu nome são: ${name.slice(-3, name.length)}<br/>`;
+        document.body.innerHTML += `As palavras do seu nome são: ${name.split(' ')}<br/>`;
+        document.body.innerHTML += `Seu nome com letras maiúsculas: ${name.toLocaleUpperCase()}<br/>`;
+        document.body.innerHTML += `Seu nome com letras minúsculas: ${name.toLocaleLowerCase()}<br/>`;
+        console.log(name);
+    </script>
+
+</body>
+
+</html>
