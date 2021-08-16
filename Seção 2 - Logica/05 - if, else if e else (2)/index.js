@@ -2,6 +2,8 @@ const numero = 30;
 
 //se (numero >= 0 && numero <= 5 ) ocorrer, faça isso {código}
 //se não faça isso {o código}
+// os blocos if execução as ações na order programada, com isso, caso tenha uma função
+//que quebre o programa, o programa ira parar a execução;
 
 if (numero >= 0 && numero <= 5) {
     console.log('o numero está entre 0 e 5.');
