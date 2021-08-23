@@ -27,8 +27,6 @@ function getDiaSemanaTexto(diaSemana) {
             diaSemanaTexto = '';
             return diaSemanaTexto;
     }
-
-
 }
 
 // const data = new Date();
