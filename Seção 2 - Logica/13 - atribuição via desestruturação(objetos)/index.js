@@ -9,15 +9,23 @@ const pessoa = {
     }
 };
 
-//atribuição via desestruturação
 const {
-    endereco: {
-        rua,
-        bairro
-    },
-    endereco
+    nome,
+    ...resto
 } = pessoa;
-console.log(rua, bairro, endereco);
+console.log(resto)
+
+
+
+// //atribuição via desestruturação
+// const {
+//     endereco: {
+//         rua,
+//         bairro
+//     },
+//     endereco
+// } = pessoa;
+// console.log(rua, bairro, endereco);
 
 
 // const {
