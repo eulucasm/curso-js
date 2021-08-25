@@ -1,3 +1,8 @@
+//for clássico  -Geralmente com iteráveis(array ou string)
+// for in retorna o índice ou chave(string, array ou objetos)
+//for of retorna o valor em si (iteráveis, array ou strings)
+
+
 //especifico para objetos iteráveis como sting ou array
 //indice      123456......
 const nomes = ['Lucas', 'Marques', 'Manoel'];
