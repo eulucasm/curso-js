@@ -16,6 +16,11 @@ for (let i of nomes) {
     console.log(i);
 }
 
+//bonus
+nomes.forEach(function (valor, indice) {
+    console.log(valor, indice);
+});
+
 // for (let valor of nome) {
 //     console.log(valor);
 // }
