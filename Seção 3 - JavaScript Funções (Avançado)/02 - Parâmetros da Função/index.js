@@ -9,6 +9,8 @@ function conta(operador, acumulador, ...numeros) { //... = rest operetor
 };
 conta('*', 1, 20, 30, 40, 50);
 
+
+
 /*
 //desestruturação de array
 function funcao([valor1, valor2, valor3]) {
