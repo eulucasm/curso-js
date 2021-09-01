@@ -14,7 +14,7 @@ function plusMinus(arr) {
                 zeros++;
             }
 
-            return elem;
+            return arr;
         });
     }
 

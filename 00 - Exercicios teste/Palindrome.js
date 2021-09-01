@@ -3,5 +3,5 @@ function checkPalindrome(str) {
         if (str[i] != str[str.length - i - 1]) return false;
     return true;
 }
-console.log(checkPalindrome("never odd"));
+console.log(checkPalindrome("never odd or even"));
 console.log(checkPalindrome("reviver"));
