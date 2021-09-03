@@ -46,8 +46,11 @@ const removeNome = pessoas.map(obj => ({
 }));
 
 const addId = pessoas.map(function (obj, indice) {
-    obj.id = indice + 1;
-    return obj;
+    const newObj = {
+        ...obj
+    };
+    newObj.id = indice;
+    return newObj;
 });
 
 console.log(apenasNomes);
