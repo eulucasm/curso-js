@@ -43,7 +43,7 @@
 function Pessoa(nome, sobrenome) {
     this.nome = nome;
     this.sobrenome = sobrenome;
-    //return this; implicitamente 
+    //return this; implicitamente
 }
 
 const p1 = new Pessoa('Lucas', 'Marques');
