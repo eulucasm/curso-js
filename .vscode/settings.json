@@ -19,13 +19,16 @@
         "Botoes",
         "Checar",
         "codigo",
+        "Digitos",
         "Fizzbuzz",
         "freiar",
         "indice",
         "metodo",
         "nivel",
+        "Numerica",
         "paragrafos",
         "pontuacao",
-        "redeclarando"
+        "redeclarando",
+        "validacpf"
     ]
 }
