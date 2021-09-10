@@ -41,7 +41,9 @@ async function executa() {
 }
 executa();
 
-
+//pending -> pendente
+//fulfilled -> resolvida
+//rejected -> rejeitada
 
 //metodo normal encadeado.
 // esperaAi('Fase 1', rand())
