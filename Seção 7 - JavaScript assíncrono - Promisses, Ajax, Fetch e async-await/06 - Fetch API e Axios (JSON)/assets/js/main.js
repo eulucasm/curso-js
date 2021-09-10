@@ -11,7 +11,7 @@ function carregaElementosNaPagina(json) {
   for(let pessoa of json) {
     const tr = document.createElement('tr');
 
-    let td1 = document.createElement('td');
+    let td1 = document.createElement('td'); 
     td1.innerHTML = pessoa.nome;
     tr.appendChild(td1);
 
