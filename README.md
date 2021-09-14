@@ -29,16 +29,16 @@
 **Alguns projetos criados no curso:**
 
 - Criando um timer com setInterval <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/28%20-%20Criando%20um%20timer%20com%20setInterval" target="_blank">setInterval</a>.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
-- blabla <a href="" target="_blank">blabla</a> blabla.
+- Criando uma lista de tarefas<a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/29%20-%20Criando%20uma%20lista%20de%20tarefas" target="_blank">tarefas</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
+- blabla <a href="" target="_blank">blabla</a> .
 
 <p align="left">
 
