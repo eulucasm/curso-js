@@ -24,21 +24,10 @@
   - Expressões Regulares;
   - Padrões de projeto GOF - Design Patterns (Bônus);
   - NestJS + Strapi + PostgreSQL (com CSR, SSR, SSG e ISR);
+<hr/>
 
+**Alguns projetos criados no curso:**
 
-
-
-
-
-- Hoje atuando como Dev Backend JR. 
-- 💼 Sou apaixonado por tecnologia, por isso sigo estudando todos os dias, sem descanso para alcançar meus objetivos;
-- 👾 Meus hobbies são: 
-  - Estudar (sou viciado em adquirir conhecimento); 
-  - Games (Amo um bom RPG ou games com uma boa historia, tipo The last of us e Horizon zero down);
-  - Ler livros;
-  - Cuidar das minhas plantinhas (Isso sim é terapia);
-- 💬 Amo conversar e trocar conhecimento, então pode me chamar :) ;
-- 📫 Se preferir, envie um email para Lucaspoletis@gmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1HYneZa1HcC6YHp0eBMYDmW47sQvazGx8/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 
