@@ -28,7 +28,17 @@
 
 **Alguns projetos criados no curso:**
 
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1HYneZa1HcC6YHp0eBMYDmW47sQvazGx8/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- Criando um timer com setInterval <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/28%20-%20Criando%20um%20timer%20com%20setInterval" target="_blank">setInterval</a>.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
+- blabla <a href="" target="_blank">blabla</a> blabla.
 
 <p align="left">
 
