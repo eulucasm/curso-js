@@ -17,7 +17,7 @@ o arquivo index.ejs, referenciando ele na nossa homeController.
 5º- criamos a base de dados no mongo atlas, usando uma base free na nuvem para teste.
 configuramos essa base na nossa server.js
 
-6º-
+6º-hwo7yGv5cQst2L2C
 
 
 */
