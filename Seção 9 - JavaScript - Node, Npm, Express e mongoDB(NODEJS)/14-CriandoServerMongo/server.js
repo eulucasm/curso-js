@@ -2,13 +2,14 @@ require('dotenv').config();
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
+const connectionString = 'mongodb+srv://lucaspoletis:100190@cluster0.u0sew.mongodb.net/BASEDEDADOS?authSource=admin'
 
-mongoose.connect(process.env.CONNECTIONSTRING, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
-}).then(() => {
-    app.emit('Pronto')
-}).catch(e => console.log(e));
+mongoose.connect(connectionString, {
+        useNewUrlParser: true,
+        useCreateIndex: true
+    })
+    .then(() => console.log('MongoDB connected...'))
+    .catch(err => console.log(err));
 
 const routes = require('./routes')
 const path = require('path');
