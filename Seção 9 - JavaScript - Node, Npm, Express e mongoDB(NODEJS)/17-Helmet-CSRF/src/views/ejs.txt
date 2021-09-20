@@ -1,0 +1,24 @@
+Exemplos usados na aula
+Mais seguro de se utilizar(exibe exatamente a informação solicitada) 
+<%= titulo %><br>
+utilizar quando voce sabe que o conteúdo é HTML(não deixa escapar os caracteres)
+<%- titulo %>
+
+<% if(typeof titulo !== 'undefined') { %>
+<%= titulo %>
+<% } else { %>
+O titulo não foi enviado.
+<% } %>
+
+<% numeros.forEach(num => { %>
+<%= num %><br>
+<% }); %>
+
+
+<=====================>
+<% Controle de Fluxo (if, for...) %>
+<%= imprime escapando caracteres %>
+<%- Imprime sem escapar caracteres %>
+<%# Comentario %>
+
+<%- include('caminho/arquivo'); %>
