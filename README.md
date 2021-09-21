@@ -35,6 +35,7 @@
 - validando Formulário <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%206%20-%20JavaScript%20Orientada%20a%20Objetos%20-%20POO/07%20-%20validando%20Formul%C3%A1rio%20(usando%20classes)" target="_blank">Formulário</a> .
 - <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%208%20-%20JavaScript%20Tooling%20e%20ES6%20Modules%20-%20M%C3%B3dulos/07-Gerador-de-cpf" target="_blank">Gerador de cpf</a> .
 - <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%208%20-%20JavaScript%20Tooling%20e%20ES6%20Modules%20-%20M%C3%B3dulos/08-Gerador-de-senhas" target="_blank">Gerador de senhas</a> .
+- <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o10-ProjetoAgenda" target="_blank">Projeto Agenda (express, Mongo)(login, autenticação, CRUD)</a>.
 
 <hr/>
 **O curso ainda não foi finalizado, então continue acompanhando para novas atualização =)**
