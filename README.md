@@ -28,11 +28,11 @@
 
 **Alguns projetos criados no curso:**
 
-- Criando um timer com setInterval <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/28%20-%20Criando%20um%20timer%20com%20setInterval" target="_blank">setInterval</a>.
-- Criando uma lista de <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/29%20-%20Criando%20uma%20lista%20de%20tarefas" target="_blank">tarefas</a> .
-- Calculadora com  <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%203%20-%20JavaScript%20Fun%C3%A7%C3%B5es%20(Avan%C3%A7ado)/11%20-%20Calculadora%20com%20fun%C3%A7%C3%A3o%20construtora(calculadora2)" target="_blank">função construtora</a> .
-- Validando um  <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%205%20-%20JavaScript%20Objetos%20e%20prototypes%20(Avan%C3%A7ado)/08%20-%20Exercicio%20-%20Validando%20um%20CPF(algoritimo)" target="_blank">CPF</a> .
-- validando Formulário <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%206%20-%20JavaScript%20Orientada%20a%20Objetos%20-%20POO/07%20-%20validando%20Formul%C3%A1rio%20(usando%20classes)" target="_blank">Formulário</a> .
+- <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/28%20-%20Criando%20um%20timer%20com%20setInterval" target="_blank">Criando um timer com setInterval setInterval</a>.
+- <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%202%20-%20Logica/29%20-%20Criando%20uma%20lista%20de%20tarefas" target="_blank">Criando uma lista de tarefas</a> .
+- <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%203%20-%20JavaScript%20Fun%C3%A7%C3%B5es%20(Avan%C3%A7ado)/11%20-%20Calculadora%20com%20fun%C3%A7%C3%A3o%20construtora(calculadora2)" target="_blank">Calculadora com função construtora</a> .
+- <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%205%20-%20JavaScript%20Objetos%20e%20prototypes%20(Avan%C3%A7ado)/08%20-%20Exercicio%20-%20Validando%20um%20CPF(algoritimo)" target="_blank">Validando um CPF</a> .
+- <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%206%20-%20JavaScript%20Orientada%20a%20Objetos%20-%20POO/07%20-%20validando%20Formul%C3%A1rio%20(usando%20classes)" target="_blank">validando Formulário </a> .
 - <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%208%20-%20JavaScript%20Tooling%20e%20ES6%20Modules%20-%20M%C3%B3dulos/07-Gerador-de-cpf" target="_blank">Gerador de cpf</a> .
 - <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o%208%20-%20JavaScript%20Tooling%20e%20ES6%20Modules%20-%20M%C3%B3dulos/08-Gerador-de-senhas" target="_blank">Gerador de senhas</a> .
 - <a href="https://github.com/eulucasm/curso-js-ts/tree/master/Se%C3%A7%C3%A3o10-ProjetoAgenda" target="_blank">Projeto Agenda (express, Mongo)(login, autenticação, CRUD)</a>.
