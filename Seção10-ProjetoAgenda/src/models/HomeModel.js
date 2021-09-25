@@ -1,10 +1,9 @@
 const mongoose = require('mongoose');
 
 const HomeSchema = new mongoose.Schema({
-    //modelando o bando de dados
     titulo: {
         type: String,
-        require: true
+        required: true
     },
     descricao: String
 });
