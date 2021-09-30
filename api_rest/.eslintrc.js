@@ -14,5 +14,6 @@ module.exports = {
     'no-console': 'off',
     'class-methods-use-this': 'off',
     'comma-dangle': 'off',
+    'import/first': 'off',
   },
 };

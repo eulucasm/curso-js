@@ -1,8 +1,17 @@
+import Aluno from '../models/Aluno';
+
 class HomeController {
-  index(req, res) {
-    res.json({
-      tudocerto: true,
+  async index(req, res) {
+    const novoAluno = await Aluno.create({
+      nome: 'Lucas',
+      sobrenome: 'Marques',
+      email: 'lucaspoletis@gmail.com',
+      idade: 31,
+      peso: 98,
+      altura: 1.86
+
     });
+    res.json(novoAluno);
   }
 }
 
