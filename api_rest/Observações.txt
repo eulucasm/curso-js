@@ -1,6 +1,10 @@
 Arquivo criado para anotações sobre os estudos =)
 
-- Para desativar a correção de codigo da proxima linha com eslint basta adicionar uma linha antes o comentario:
+- Para desativar a correção de codigo da proxima linha com eslint basta adicionar uma
+linha antes o comentario:
 //eslint-disable-next-line
 obs: podemos usar o comentario na mesma linha após o codigo... mas não é uma boa pratica.
 
+- quando instanciamos uma clase em seu proprio arquivo, importamos ela com letra minuscula.
+exp: instanciamos a HomeController e imnportamos ela na homeRoutes iniciando com
+letra minuscula.
