@@ -11,7 +11,7 @@ router.get('/', userController.index); // lista usuarios
 router.get('/:id', userController.show); // lista um usuario por id
 
 // Existe em um sistema real
-router.post('/', userController.store); // Criação de usuario
+router.post('/', loginRequired, userController.store); // Criação de usuario
 router.put('/', loginRequired, userController.update); // Atualiza usuario
 router.delete('/', loginRequired, userController.delete); // Deleta usuario
 
