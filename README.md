@@ -6,7 +6,8 @@
 - O curso foi desenvolvido para qualquer nivel de conhecimento em desenvolvimento com JavaScript, trazendo todas as nuances do JavaScript que podemos encontrar na atualidade.
 - O que é abordado aqui ?
   - JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end);
-  - TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end);
+  - TypeScript - um superset do JavaScript com tipagem estática (front-end e back-end) -> <a href="https://github.com/eulucasm/curso-TS" target="_blank">Repositorio separado para TS</a>
+  https://github.com/eulucasm/curso-TS
   - Node, Express, MongoDB e MySQL/MariaDB (Back-end);
   - Webpack e Babel (Front-end);
   - Sistema de login com session (front-end e back-end);
