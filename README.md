@@ -19,7 +19,7 @@
   - Criação de API Rest com Node + Express + Sequelize (back-end);
   - React JS com React Hooks + Redux com Redux Saga (front-end);
   - Princípios da programação orientada a objetos;
-  - Princípios S.O.L.I.D;
+  - Princípios S.O.L.I.D -> <a href="https://github.com/eulucasm/typescriptsolid" target="_blank">Repositorio separado para o projeto</a>
   - Testes automatizados com o Jest;
   - Expressões Regulares;
   - Padrões de projeto GOF - Design Patterns (Bônus);
